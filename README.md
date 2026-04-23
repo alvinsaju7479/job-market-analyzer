@@ -57,7 +57,6 @@ The results are presented through an **interactive dashboard** built with Stream
 
 ---
 
-## 📂 Project Structure
 # 📊 Job Market Analyzer
 
 An interactive data analysis project that explores job market trends using real-world job listings.  
@@ -88,7 +87,7 @@ The results are presented through an **interactive dashboard** built with Stream
 ---
 
 ## 📂 Project Structure
----
+```text
 job-market-analyzer/
 │
 ├── data/
@@ -99,7 +98,7 @@ job-market-analyzer/
 ├── requirements.txt
 ├── README.md
 └── images/
-
+```
 
 ---
 
