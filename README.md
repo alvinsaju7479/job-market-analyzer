@@ -88,6 +88,7 @@ The results are presented through an **interactive dashboard** built with Stream
 ---
 
 ## 📂 Project Structure
+---
 job-market-analyzer/
 │
 ├── data/
